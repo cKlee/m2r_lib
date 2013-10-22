@@ -7,9 +7,6 @@
 [submodule "Validate"]
 	path = Validate
 	url = https://github.com/pear/Validate.git
-[submodule "Structures_LinkedList"]
-	path = Structures_LinkedList
-	url = https://github.com/pear/Structures_LinkedList.git
 [submodule "easyrdf"]
 	path = easyrdf
 	url = https://github.com/njh/easyrdf.git
