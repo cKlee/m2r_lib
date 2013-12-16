@@ -22,3 +22,6 @@
 [submodule "forceutf8"]
 	path = forceutf8
 	url = https://github.com/neitanod/forceutf8.git
+[submodule "php-marc-spec"]
+	path = php-marc-spec
+	url = https://github.com/cKlee/php-marc-spec.git
